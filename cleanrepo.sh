@@ -19,7 +19,7 @@ function cleanRepo() {
 }
 
 function manageMenu() {
-  echo "This script would reset all your repository!"
+  echo "This script will RESET ALL your repository!"
   echo "What do you want to do?"
   echo "   1) Clean"
   echo "   2) Exit"
@@ -33,9 +33,9 @@ until [[ ${MENU_OPTION} =~ ^[1-5]$ ]]; do
 		cleanRepo
 		;;
 	2) 
-                exit 0
-                ;;
-        esac
+        exit 0
+        ;;	
+    esac
 }
 
 if [[ -e "${GIT_DIR}" ]]; then
