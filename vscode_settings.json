@@ -1,0 +1,61 @@
+{
+    "css.completion.triggerPropertyValueCompletion": false,
+    "workbench.colorTheme": "Ayu Mirage",
+    "workbench.startupEditor": "none",
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "git.autofetch": false,
+    "telemetry.telemetryLevel": "off",
+    "update.enableWindowsBackgroundUpdates": false,
+    "update.mode": "none",
+    "remote.SSH.remotePlatform": {
+    },
+    "oneDarkPro.vivid": true,
+    "editor.minimap.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[yaml]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "keep",
+        "diffEditor.ignoreTrimWhitespace": false,
+        "cSpell.enabled": false,
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        }
+    },
+    "workbench.editor.enablePreview": false,
+    "remote.SSH.configFile": "C:\\Users\\User\\Downloads\\Documents\\SSH\\ssh_config",
+    "workbench.colorCustomizations": {
+        "terminal.background":"#131212",
+        "terminal.foreground":"#a1cf21",
+        "terminal.ansiBlack":"#1D2021",
+        "terminal.ansiBrightBlack":"#665C54",
+        "terminal.ansiBrightBlue":"#0D6678",
+        "terminal.ansiBrightCyan":"#8BA59B",
+        "terminal.ansiBrightGreen":"#237e02",
+        "terminal.ansiBrightMagenta":"#8F4673",
+        "terminal.ansiBrightRed":"#FB543F",
+        "terminal.ansiBrightWhite":"#FDF4C1",
+        "terminal.ansiBrightYellow":"#FAC03B",
+        "terminal.ansiBlue":"#00a1f9",
+        "terminal.ansiCyan":"#8BA59B",
+        "terminal.ansiGreen":"#95C085",
+        "terminal.ansiMagenta":"#8F4673",
+        "terminal.ansiRed":"#FB543F",
+        "terminal.ansiWhite":"#A89984",
+        "terminal.ansiYellow":"#FAC03B"
+    },
+    "window.zoomLevel": -1,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "remote.SSH.showLoginTerminal": true,
+    "remote.SSH.suppressWindowsSshWarning": true,
+    "workbench.activityBar.location": "top",
+    "security.allowedUNCHosts": [
+        "wsl$"
+    ]
+}
+
+
